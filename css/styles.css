@@ -1,0 +1,45 @@
+
+body {
+    height: 100vh;
+
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: lightsalmon;
+}
+
+#padre {
+    height: 42em;
+    width: 42em;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    background-color: blue;
+
+}
+
+#rojo {
+    height: 42em;
+    width: 14em;
+    background-color: red;
+
+}
+
+#amarillo {
+    height: 42em;
+    width: 14em;
+    background-color: yellow;
+}
+
+#verde {
+    height: 42em;
+    width: 14em;
+    background-color: green;
+}
